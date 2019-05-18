@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="com.example.arturo.coox.Registro" />
+        <activity android:name="com.example.arturo.coox.panel_padres" />
         <activity android:name="com.example.arturo.coox.Login" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

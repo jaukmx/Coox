@@ -1060,6 +1060,10 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_CancelarRegistro
+id btn_EnviarRegistro
+id btn_login
+id btn_registrar
 id buttonPanel
 id center
 id center_horizontal
@@ -1110,6 +1114,7 @@ id icon_group
 id ifRoom
 id image
 id imageView
+id imageView2
 id info
 id invisible
 id italic
@@ -1141,11 +1146,17 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id password
 id percent
 id pin
 id progress_circular
 id progress_horizontal
 id radio
+id reg_apellido1
+id reg_apellido2
+id reg_correo
+id reg_nombre
+id reg_password
 id right
 id right_icon
 id right_side
@@ -1221,6 +1232,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id username
 id view_offset_helper
 id visible
 id withText
@@ -1274,6 +1286,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
+layout activity_panel_padres
+layout activity_registro
 layout content_main
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

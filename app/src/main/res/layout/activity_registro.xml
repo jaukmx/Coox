@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Azul"
+    tools:context=".Registro"
+    android:orientation="vertical"
+
+
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Registro de usuario"
+        android:textColor="@color/Negro"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+
+        />
+    <EditText
+        android:id="@+id/reg_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/reg_apellido1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Apellido paterno"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/reg_apellido2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre materno"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/reg_correo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Correo"
+        android:inputType="textEmailAddress"/>
+    <EditText
+        android:id="@+id/reg_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/btn_EnviarRegistro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrase"
+        android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/btn_CancelarRegistro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cancelar"
+        android:layout_gravity="center"/>
+</LinearLayout>
