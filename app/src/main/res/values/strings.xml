@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">coox</string>
     <string name="title_activity_main">MainActivity</string>
+    <color name="Azul">#8FD2CC</color>
+    <color name="Negro">#000000</color>
+    <string name="proyect_name">Coox Kaansah</string>
 </resources>
