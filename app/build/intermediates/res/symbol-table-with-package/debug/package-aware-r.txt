@@ -1063,7 +1063,6 @@ id bottom
 id btn_CancelarRegistro
 id btn_EnviarRegistro
 id btn_login
-id btn_registrar
 id buttonPanel
 id center
 id center_horizontal
@@ -1146,7 +1145,6 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
-id password
 id percent
 id pin
 id progress_circular
@@ -1211,7 +1209,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
+id textVie
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1228,11 +1226,14 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id txtContraseña
+id txtRegistrar
+id txtUser
+id txtUsuario
 id uniform
 id unlabeled
 id up
 id useLogo
-id username
 id view_offset_helper
 id visible
 id withText

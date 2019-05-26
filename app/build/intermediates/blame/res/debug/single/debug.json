@@ -208,12 +208,12 @@
         "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/dfae88b2433fb377209068b50287ffc0/res/drawable/ic_mtrl_chip_checked_black.xml"
     },
     {
-        "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/7000b1de83de916413002efafec0e02d/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/layout_activity_panel_padres.xml.flat",
         "source": "/home/jauk/Documentos/GIT/Coox/app/src/main/res/layout/activity_panel_padres.xml"
+    },
+    {
+        "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/7000b1de83de916413002efafec0e02d/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
@@ -496,12 +496,12 @@
         "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/dfae88b2433fb377209068b50287ffc0/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/jauk/Documentos/GIT/Coox/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/layout_activity_registro.xml.flat",
         "source": "/home/jauk/Documentos/GIT/Coox/app/src/main/res/layout/activity_registro.xml"
+    },
+    {
+        "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/jauk/Documentos/GIT/Coox/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",

@@ -26,7 +26,7 @@
         app:srcCompat="@mipmap/logo" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textVie"
         android:layout_width="222dp"
         android:layout_height="36dp"
         android:layout_marginStart="10dp"
@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.056" />
 
     <EditText
-        android:id="@+id/username"
+        android:id="@+id/txtUsuario"
         android:layout_width="290dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
@@ -62,7 +62,7 @@
         app:layout_constraintVertical_bias="0.543" />
 
     <EditText
-        android:id="@+id/password"
+        android:id="@+id/txtContraseña"
         android:layout_width="290dp"
         android:layout_height="48dp"
         android:layout_marginStart="8dp"
@@ -80,8 +80,8 @@
 
     <Button
         android:id="@+id/btn_login"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="252dp"
+        android:layout_height="51dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
@@ -89,24 +89,25 @@
         android:text="Acceder"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.296"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.715" />
+        app:layout_constraintVertical_bias="0.719" />
 
-    <Button
-        android:id="@+id/btn_registrar"
-        android:layout_width="wrap_content"
+
+    <TextView
+        android:id="@+id/txtRegistrar"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
+        android:layout_marginTop="512dp"
         android:layout_marginBottom="8dp"
-        android:text="Registrarse"
+        android:text="¿Nuevo Usuario? ¡Registrate aquí!"
+
+
+        android:textAlignment="center"
+        android:textColor="@color/Negro"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.676"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.715" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="0dp" />
 </android.support.constraint.ConstraintLayout>
