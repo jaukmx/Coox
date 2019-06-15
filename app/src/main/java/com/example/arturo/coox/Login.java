@@ -22,11 +22,11 @@ import java.util.Map;
 
 public class Login extends AppCompatActivity {
     //variable textviw
-    TextView registrarse;
+
     EditText username, userpassword;
     Button btnlogin;
 
-    private static final String loginUrl = "http://192.168.1.66/coox/login.php";
+    private static final String loginUrl = "http://34.83.87.64/login.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,18 +35,18 @@ public class Login extends AppCompatActivity {
 
 
         //Funcion de pasar a paguina de registarse
-        registrarse = findViewById(R.id.txtRegistrar);
+
         //variasbles del formulario para logearse
         username = findViewById(R.id.txtUsuario);
         userpassword = findViewById(R.id.txtContraseña);
         btnlogin = findViewById(R.id.btn_login);
-
+        Button regist = (Button) findViewById(R.id.btnReg);
 //Funcion de pasar a paguina de registarse
-        registrarse.setOnClickListener(new View.OnClickListener() {
+        regist.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Login.this, Registro.class);
-                startActivity(intent);
+                Intent intent = new Intent (v.getContext(), Registro.class);
+                startActivityForResult(intent, 0);
             }
         });
 

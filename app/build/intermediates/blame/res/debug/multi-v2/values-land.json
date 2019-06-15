@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/arturo/Documentos/git/Coox/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/7000b1de83de916413002efafec0e02d/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                },
-                {
-                    "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/dfae88b2433fb377209068b50287ffc0/res/values-land/values-land.xml",
+                    "source": "/home/arturo/.gradle/caches/transforms-2/files-2.1/5c16f6f7323603d399f67ca74dcc0575/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "8",
                         "endColumns": "10",
                         "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/home/arturo/.gradle/caches/transforms-2/files-2.1/a7a8e58b7b657d1362b9bf0878c55316/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

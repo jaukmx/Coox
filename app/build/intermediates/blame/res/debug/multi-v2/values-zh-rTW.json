@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jauk/Documentos/GIT/Coox/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/home/arturo/Documentos/git/Coox/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/3f490e8bb486b568a61f77251ca55730/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/arturo/.gradle/caches/transforms-2/files-2.1/461e06f86c9320795c5de162785040d9/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/jauk/.gradle/caches/transforms-2/files-2.1/7000b1de83de916413002efafec0e02d/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/arturo/.gradle/caches/transforms-2/files-2.1/a7a8e58b7b657d1362b9bf0878c55316/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
