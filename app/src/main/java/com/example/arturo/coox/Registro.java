@@ -22,7 +22,7 @@ public class Registro extends AppCompatActivity {
     Button btn_CancelarRegistro, BotonRegistrar;
     EditText nombre, apellido1, apellido2, correo, contrasena;
 
-    private static final String loginUrl = "http://34.83.87.64/registeruser.php";
+    private static final String loginUrl = "http://34.83.87.64/coox/registeruser.php";
 
 
     @Override

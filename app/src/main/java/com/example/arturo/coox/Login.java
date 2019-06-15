@@ -26,7 +26,7 @@ public class Login extends AppCompatActivity {
     EditText username, userpassword;
     Button btnlogin;
 
-    private static final String loginUrl = "http://34.83.87.64/login.php";
+    private static final String loginUrl = "http://34.83.87.64/coox/login.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
